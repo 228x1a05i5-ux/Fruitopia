@@ -30,6 +30,9 @@ This is a minimal MVP of the Fruitopia project you described. It provides a Flas
    ```
 4. Open your browser at http://127.0.0.1:5000/
 
+**Deno Video Link**
+
+
 ## Next steps to integrate a trained CNN model
 - Train a Keras/TensorFlow model in `Fruit Classification.ipynb` or your own notebook.
 - Save the model as `models/fruit.h5` or outside and update `app.py` to load and use the Keras model.
